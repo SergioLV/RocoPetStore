@@ -1,0 +1,130 @@
+#logo {
+  background-image: url("../../assets/img/Logo.png");
+  width: 100%;
+  height: 12vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin-top: 30px;
+}
+
+#top-bar {
+  width: 100%;
+  height: 3vh;
+  background-color: #0a0303;
+}
+
+#mail-icon {
+  color: white;
+}
+
+#info {
+  font-size: 10px;
+}
+
+.info {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
+
+#contacto {
+  font-size: 17px;
+}
+
+.col.contact {
+  background-color: #060000;
+  color: rgb(255, 255, 255);
+}
+
+.contact h1 {
+  font-size: 10px;
+  margin-top: 13px;
+  margin-left: 30px;
+}
+
+.social h1 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.add-button {
+  color: black;
+  background-color: rgb(0, 0, 0, 0);
+  border: 1px solid;
+  border-radius: 30px;
+}
+
+.cat-card {
+  background-color: rgb(0, 0, 0, 0);
+}
+
+.login-icon {
+  color: rgb(0, 0, 0);
+}
+.desc-productos {
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #ffffff;
+}
+
+.ordenes {
+  font-size: 25px;
+  color: black;
+}
+
+.inner {
+  overflow: hidden;
+}
+.inner img {
+  transition: all 1.5s ease;
+}
+
+.inner:hover img {
+  transform: scale(1.2);
+  opacity: 0.4;
+}
+.tieda-product-name-href {
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+  color: grey;
+}
+.tieda-product-name {
+  margin-top: -15px;
+  font-size: 15px;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+.precio {
+  font-size: 30px;
+  color: lightseagreen;
+}
+.marca {
+  font-size: 20px;
+}
+
+.desc {
+  padding-right: 100px;
+  color: grey;
+}
+.marca-producto {
+  margin-bottom: -7px;
+  font-size: 15px;
+  color: grey;
+}
+.res {
+  color: green;
+}
+
+.resumen-orden {
+  margin-left: 530px;
+}
+.tienda-bg {
+  background-color: rgb(246, 247, 249);
+}
+
+.perfil-p {
+  color: grey;
+}
