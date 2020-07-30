@@ -1,4 +1,4 @@
-## Roco's Pet Store Proyect.
+# Roco's Pet Store Proyect.
 
 This was a proyect for the Web Development course of Diego Portales University.
 
@@ -8,7 +8,7 @@ It has Session Control and a special section for the sellers and in the sellers 
 
 You cand find the Web-Scraping part [Here](https://github.com/SergioLV/RocoPetStore/blob/master/success-ws.php).
 
-## Important notes
+# Important notes
 
  In order to Web-Scrap [Pyk](https://pyk.cl) I used:
 
