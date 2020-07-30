@@ -6,7 +6,7 @@ The goal was to make a little e-commerce web page without the real payment imple
 
 It has Session Control and a special section for the sellers and in the sellers section I made a little Web-Scraping on [Pyk](https://pyk.cl) for the upload of the products but the page admits manual adding of products also.
 
-You cand find the Web-Scraping part [Here](https://github.com/SergioLV/RocoPetStore/blob/master/addprodws.php).
+You cand find the Web-Scraping part [Here](https://github.com/SergioLV/RocoPetStore/blob/master/success-ws.php).
 
 ## Important notes
 
